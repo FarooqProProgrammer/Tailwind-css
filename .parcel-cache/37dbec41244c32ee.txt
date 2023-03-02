@@ -1,4 +1,4 @@
-5446
+5465
 94C:\Users\USER\Documents\New folder\E-commerce\node_modules\caniuse-lite\data\features\xhtml.js133222535377029462 0
 134C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module\main.js133222535311116777 0
 94C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\transformer-js\package.json133222535300056370 0
@@ -12,7 +12,7 @@
 83C:\Users\USER\Documents\New folder\E-commerce\node_modules\dom-serializer\README.md133222535246834535 0
 101C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\transformer-react-refresh-wrap\lib133222535287420190 1
 77C:\Users\USER\Documents\New folder\E-commerce\node_modules\.package-lock.json133222537895678451 0
-58C:\Users\USER\Documents\New folder\E-commerce\package.json133222540841073706 0
+58C:\Users\USER\Documents\New folder\E-commerce\package.json133222556319942056 0
 96C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\resolver\nested_symlinks133222533069238206 1
 106C:\Users\USER\Documents\New folder\E-commerce\node_modules\caniuse-lite\data\features\template-literals.js133222535368998552 0
 97C:\Users\USER\Documents\New folder\E-commerce\node_modules\lmdb\dependencies\lz4\lib\liblz4.pc.in133222535337077310 0
@@ -37,7 +37,12 @@
 76C:\Users\USER\Documents\New folder\E-commerce\node_modules\readdirp\index.js133222533058277593 0
 90C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\lib\featureFlags.js133222533078922290 0
 68C:\Users\USER\Documents\New folder\E-commerce\node_modules\.bin\svgo133222537870765098 0
-50C:\Users\USER\Documents\New folder\E-commerce\dist133222547835469202 1
+50C:\Users\USER\Documents\New folder\E-commerce\dist133222558603072640 1
+76C:\Users\USER\Documents\New folder\E-commerce\node_modules\@msgpackr-extract133222537892676474 1
+90C:\Users\USER\Documents\New folder\E-commerce\node_modules\caniuse-lite\data\regions\FI.js133222535346691575 0
+96C:\Users\USER\Documents\New folder\E-commerce\node_modules\@swc\helpers\src\_new_arrow_check.mjs133222535339490864 0
+87C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\cache\lib\types.d.ts133222535275452211 0
+56C:\Users\USER\Documents\New folder\E-commerce\.gitignore133222557337381486 0
 102C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\lib\util\createUtilityPlugin.js133222533075990145 0
 65C:\Users\USER\Documents\New folder\E-commerce\node_modules\cssesc133222533062605958 1
 98C:\Users\USER\Documents\New folder\E-commerce\node_modules\caniuse-lite\data\features\flow-root.js133222535347120427 0
@@ -84,7 +89,7 @@
 89C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\cache\src\LMDBCache.js133222535271712229 0
 102C:\Users\USER\Documents\New folder\E-commerce\node_modules\caniuse-lite\data\features\css-animation.js133222535336658435 0
 97C:\Users\USER\Documents\New folder\E-commerce\node_modules\@swc\helpers\src\_class_call_check.mjs133222535331322709 0
-56C:\Users\USER\Documents\New folder\E-commerce\src\assets133222544229889652 1
+56C:\Users\USER\Documents\New folder\E-commerce\src\assets133222554200086556 1
 78C:\Users\USER\Documents\New folder\E-commerce\node_modules\safe-buffer\LICENSE133222535215727768 0
 78C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\scripts133222533086442172 1
 97C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\lib\util\isKeyframeRule.js133222533081904310 0
@@ -92,10 +97,15 @@
 86C:\Users\USER\Documents\New folder\E-commerce\node_modules\yaml\dist\legacy-exports.js133222533068161088 0
 84C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\nonstring.js133222533077256747 0
 85C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\workers\index.d.ts133222535304963245 0
-60C:\Users\USER\Documents\New folder\E-commerce\src\index.html133222547826662761 0
-59C:\Users\USER\Documents\New folder\E-commerce\src\input.css133222545477662065 0
+60C:\Users\USER\Documents\New folder\E-commerce\src\index.html133222555492582987 0
+59C:\Users\USER\Documents\New folder\E-commerce\src\input.css133222554864988876 0
 78C:\Users\USER\Documents\New folder\E-commerce\node_modules\braces\CHANGELOG.md133222533058297476 0
 76C:\Users\USER\Documents\New folder\E-commerce\node_modules\csso\CHANGELOG.md133222535294231962 0
+70C:\Users\USER\Documents\New folder\E-commerce\node_modules\.bin\cssesc133222533090920184 0
+86C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\logger\package.json133222535346611817 0
+85C:\Users\USER\Documents\New folder\E-commerce\node_modules\lmdb\util\RangeIterable.js133222535338473571 0
+115C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\resolver\nested_symlinks\mylib\package.json133222533079690244 0
+63C:\Users\USER\Documents\New folder\E-commerce\src\assets\bg.jpg133222553882959205 0
 65C:\Users\USER\Documents\New folder\E-commerce\src\assets\Hero.jpg133222544131027331 0
 63C:\Users\USER\Documents\New folder\E-commerce\node_modules\.bin133222537871064300 1
 86C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\watcher\src\Glob.hh133222535279910295 0
@@ -133,9 +143,6 @@
 85C:\Users\USER\Documents\New folder\E-commerce\node_modules\nullthrows\nullthrows.d.ts133222535219437909 0
 70C:\Users\USER\Documents\New folder\E-commerce\node_modules\buffer-from133222535220026426 1
 64C:\Users\USER\Documents\New folder\E-commerce\node_modules\@lmdb133222537892666500 1
-76C:\Users\USER\Documents\New folder\E-commerce\node_modules\@msgpackr-extract133222537892676474 1
-90C:\Users\USER\Documents\New folder\E-commerce\node_modules\caniuse-lite\data\regions\FI.js133222535346691575 0
-96C:\Users\USER\Documents\New folder\E-commerce\node_modules\@swc\helpers\src\_new_arrow_check.mjs133222535339490864 0
 118C:\Users\USER\Documents\New folder\E-commerce\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.c133222535287460078 0
 67C:\Users\USER\Documents\New folder\E-commerce\node_modules\@nodelib133222533052542881 1
 91C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\resolver\false_main133222533079081874 1
@@ -191,7 +198,7 @@
 129C:\Users\USER\Documents\New folder\E-commerce\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\LICENSE133222535348606448 0
 72C:\Users\USER\Documents\New folder\E-commerce\node_modules\utility-types133222535261599287 1
 83C:\Users\USER\Documents\New folder\E-commerce\node_modules\escalade\sync\index.d.ts133222535238187664 0
-73C:\Users\USER\Documents\New folder\E-commerce\dist\index.4110e2cc.css.map133222547835429317 0
+73C:\Users\USER\Documents\New folder\E-commerce\dist\index.4110e2cc.css.map133222558601963803 0
 92C:\Users\USER\Documents\New folder\E-commerce\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133222535336369205 0
 76C:\Users\USER\Documents\New folder\E-commerce\node_modules\binary-extensions133222533064261527 1
 83C:\Users\USER\Documents\New folder\E-commerce\node_modules\css-what\lib\es\index.js133222535221771592 0
@@ -258,7 +265,6 @@
 72C:\Users\USER\Documents\New folder\E-commerce\node_modules\color-convert133222535231695031 1
 97C:\Users\USER\Documents\New folder\E-commerce\node_modules\detective\test\files\optional-catch.js133222533070454950 0
 100C:\Users\USER\Documents\New folder\E-commerce\node_modules\caniuse-lite\data\features\user-timing.js133222535373169792 0
-65C:\Users\USER\Documents\New folder\E-commerce\node_modules\dotenv133222535228742959 1
 70C:\Users\USER\Documents\New folder\E-commerce\node_modules\safe-buffer133222535225082751 1
 88C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\packager-html\LICENSE133222535316851438 0
 68C:\Users\USER\Documents\New folder\E-commerce\node_modules\commander133222535238437013 1
@@ -296,7 +302,6 @@
 114C:\Users\USER\Documents\New folder\E-commerce\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.h133222535336458966 0
 68C:\Users\USER\Documents\New folder\E-commerce\node_modules\detective133222533074135108 1
 80C:\Users\USER\Documents\New folder\E-commerce\node_modules\postcss\lib\list.d.ts133222533074524068 0
-72C:\Users\USER\Documents\New folder\E-commerce\node_modules\dotenv-expand133222535227316749 1
 92C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\utils\test\config.test.js133222535368878791 0
 110C:\Users\USER\Documents\New folder\E-commerce\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1133222535278164961 0
 93C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\workers\test\workerfarm.js133222535302759142 0
@@ -304,6 +309,7 @@
 69C:\Users\USER\Documents\New folder\E-commerce\node_modules\didyoumean133222533061738272 1
 87C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\workers\src\index.js133222535278204846 0
 108C:\Users\USER\Documents\New folder\E-commerce\node_modules\caniuse-lite\data\features\link-rel-preconnect.js133222535356236045 0
+72C:\Users\USER\Documents\New folder\E-commerce\node_modules\dotenv-expand133222535227316749 1
 96C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\resolver-default\package.json133222535318546886 0
 78C:\Users\USER\Documents\New folder\E-commerce\node_modules\terser\node_modules133222537870585580 1
 84C:\Users\USER\Documents\New folder\E-commerce\node_modules\reusify\benchmarks\fib.js133222533065578007 0
@@ -316,6 +322,7 @@
 85C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\components.css133222533064431066 0
 73C:\Users\USER\Documents\New folder\E-commerce\node_modules\yaml\types.mjs133222533075661019 0
 67C:\Users\USER\Documents\New folder\E-commerce\node_modules\domutils133222535258846647 1
+65C:\Users\USER\Documents\New folder\E-commerce\node_modules\dotenv133222535228742959 1
 98C:\Users\USER\Documents\New folder\E-commerce\node_modules\type-fest\source\async-return-type.d.ts133222535223746312 0
 79C:\Users\USER\Documents\New folder\E-commerce\node_modules\electron-to-chromium133222535250285293 1
 101C:\Users\USER\Documents\New folder\E-commerce\node_modules\caniuse-lite\data\features\border-image.js133222535313979109 0
@@ -339,7 +346,6 @@
 85C:\Users\USER\Documents\New folder\E-commerce\node_modules\term-size\vendor\.DS_Store133222535317778953 0
 82C:\Users\USER\Documents\New folder\E-commerce\node_modules\htmlnano\docs\README.md133222535316422577 0
 79C:\Users\USER\Documents\New folder\E-commerce\node_modules\escape-string-regexp133222535220415233 1
-87C:\Users\USER\Documents\New folder\E-commerce\node_modules\fast-glob\out\types\index.js133222533069008826 0
 93C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\lib\util\cloneNodes.js133222533072619170 0
 79C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\src\util133222533087200140 1
 85C:\Users\USER\Documents\New folder\E-commerce\node_modules\domutils\lib\querying.d.ts133222535267663081 0
@@ -781,7 +787,6 @@
 91C:\Users\USER\Documents\New folder\E-commerce\node_modules\@swc\helpers\lib\_ts_metadata.js133222535317070854 0
 74C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\sync.js133222533078413656 0
 90C:\Users\USER\Documents\New folder\E-commerce\node_modules\caniuse-lite\data\regions\MR.js133222535358948779 0
-116C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\resolver\malformed_package_json\package.json133222533079171632 0
 89C:\Users\USER\Documents\New folder\E-commerce\node_modules\fast-glob\out\utils\pattern.js133222533070325298 0
 79C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\base.css133222533063912460 0
 85C:\Users\USER\Documents\New folder\E-commerce\node_modules\picomatch\lib\constants.js133222533058387325 0
@@ -895,7 +900,7 @@
 102C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\lib\util\parseAnimationValue.js133222533083549908 0
 91C:\Users\USER\Documents\New folder\E-commerce\node_modules\yaml\dist\PlainValue-ec8e588e.js133222533071761447 0
 91C:\Users\USER\Documents\New folder\E-commerce\node_modules\yaml\dist\resolveSeq-d03cb037.js133222533072678993 0
-69C:\Users\USER\Documents\New folder\E-commerce\dist\index.4110e2cc.css133222547835359501 0
+69C:\Users\USER\Documents\New folder\E-commerce\dist\index.4110e2cc.css133222558601783727 0
 68C:\Users\USER\Documents\New folder\E-commerce\node_modules\json5\lib133222535263823339 1
 87C:\Users\USER\Documents\New folder\E-commerce\node_modules\yaml\dist\Schema-88e323a7.js133222533072878468 0
 93C:\Users\USER\Documents\New folder\E-commerce\node_modules\svgo\plugins\convertShapeToPath.js133222535264601245 0
@@ -1020,9 +1025,6 @@
 79C:\Users\USER\Documents\New folder\E-commerce\node_modules\globals\globals.json133222535219527600 0
 83C:\Users\USER\Documents\New folder\E-commerce\node_modules\postcss\lib\comment.d.ts133222533073227535 0
 95C:\Users\USER\Documents\New folder\E-commerce\node_modules\caniuse-lite\data\features\tls1-2.js133222535371564087 0
-104C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\runtime-browser-hmr\src\HMRRuntime.js133222535316502362 0
-89C:\Users\USER\Documents\New folder\E-commerce\node_modules\escape-string-regexp\readme.md133222535221362691 0
-81C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\src\public133222533085604405 1
 80C:\Users\USER\Documents\New folder\E-commerce\node_modules\minimist\package.json133222533070415052 0
 80C:\Users\USER\Documents\New folder\E-commerce\node_modules\svgo\plugins\_path.js133222535230627890 0
 88C:\Users\USER\Documents\New folder\E-commerce\node_modules\cosmiconfig\dist\index.js.map133222535267284065 0
@@ -1296,9 +1298,9 @@
 89C:\Users\USER\Documents\New folder\E-commerce\node_modules\fast-glob\out\utils\errno.d.ts133222533074025398 0
 81C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\diagnostic\lib133222535357771924 1
 97C:\Users\USER\Documents\New folder\E-commerce\node_modules\terser\node_modules\acorn\CHANGELOG.md133222535240820617 0
-91C:\Users\USER\Documents\New folder\E-commerce\node_modules\svgo\plugins\sortDefsChildren.js133222535308713212 0
-89C:\Users\USER\Documents\New folder\E-commerce\node_modules\fast-glob\out\types\index.d.ts133222533074524068 0
 111C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\lib\lib\collapseDuplicateDeclarations.js133222533072888436 0
+89C:\Users\USER\Documents\New folder\E-commerce\node_modules\fast-glob\out\types\index.d.ts133222533074524068 0
+91C:\Users\USER\Documents\New folder\E-commerce\node_modules\svgo\plugins\sortDefsChildren.js133222535308713212 0
 85C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\graph\src\types.js133222535287340414 0
 77C:\Users\USER\Documents\New folder\E-commerce\node_modules\timsort\.npmignore133222535217473092 0
 87C:\Users\USER\Documents\New folder\E-commerce\node_modules\css-select\lib\attributes.js133222535221113355 0
@@ -1498,6 +1500,9 @@
 84C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\src\plugin.js133222533084617049 0
 90C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\src\postcss-plugins133222533081854454 1
 92C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\lib\cli\init\index.js133222533080926931 0
+104C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\runtime-browser-hmr\src\HMRRuntime.js133222535316502362 0
+89C:\Users\USER\Documents\New folder\E-commerce\node_modules\escape-string-regexp\readme.md133222535221362691 0
+81C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\src\public133222533085604405 1
 88C:\Users\USER\Documents\New folder\E-commerce\node_modules\@nodelib\fs.scandir\out\types133222533070325298 1
 82C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\readme.markdown133222533079839839 0
 79C:\Users\USER\Documents\New folder\E-commerce\node_modules\nullthrows\README.md133222535230558078 0
@@ -1520,6 +1525,7 @@
 88C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\src\util\color.js133222533073845865 0
 80C:\Users\USER\Documents\New folder\E-commerce\node_modules\is-core-module\.nycrc133222533058207719 0
 99C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\src\util\configurePlugins.js133222533074514090 0
+76C:\Users\USER\Documents\New folder\E-commerce\dist\index.4110e2cc.css.6812.o133222554924318033 0
 90C:\Users\USER\Documents\New folder\E-commerce\node_modules\postcss\lib\no-work-result.d.ts133222533074623794 0
 81C:\Users\USER\Documents\New folder\E-commerce\node_modules\acorn-node\.travis.yml133222533070634470 0
 137C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-musl.node133222535323503637 0
@@ -1592,6 +1598,7 @@
 102C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\core\test\fixtures\parcel\yarn.lock133222535378435716 0
 104C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\resolver\incorrect_main\index.js133222533075521388 0
 98C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\src\postcss-plugins\nesting133222533087888307 1
+66C:\Users\USER\Documents\New folder\E-commerce\dist\assets\Hero.jpg133222544131027331 0
 104C:\Users\USER\Documents\New folder\E-commerce\node_modules\postcss-selector-parser\dist\selectors\tag.js133222533071791384 0
 83C:\Users\USER\Documents\New folder\E-commerce\node_modules\postcss-value-parser\lib133222533065996885 1
 107C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\src\postcss-plugins\nesting\index.js133222533081874397 0
@@ -1626,6 +1633,7 @@
 77C:\Users\USER\Documents\New folder\E-commerce\node_modules\lmdb\src\lmdb-js.h133222535333546750 0
 95C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\src\lib\detectNesting.js133222533077685617 0
 98C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\lib\public\create-plugin.js133222533075690946 0
+80C:\Users\USER\Documents\New folder\E-commerce\dist\E-commerce.59712999.js.6812.m133222554924308076 0
 84C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\core\src\index.js133222535366884124 0
 100C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\src\lib\expandApplyAtRules.js133222533078473495 0
 87C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\transformer-svg\test133222535278244742 1
@@ -1788,7 +1796,7 @@
 101C:\Users\USER\Documents\New folder\E-commerce\node_modules\@babel\helper-validator-identifier\LICENSE133222535215618057 0
 100C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\lib\util\resolveConfigPath.js133222533085714123 0
 110C:\Users\USER\Documents\New folder\E-commerce\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map133222535267792711 0
-77C:\Users\USER\Documents\New folder\E-commerce\dist\E-commerce.59712999.js.map133222547832836249 0
+77C:\Users\USER\Documents\New folder\E-commerce\dist\E-commerce.59712999.js.map133222555501997787 0
 93C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\lib\util\responsive.js133222533085853747 0
 86C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\lib\util\tap.js133222533086322492 0
 102C:\Users\USER\Documents\New folder\E-commerce\node_modules\tailwindcss\lib\util\transformThemeValue.js133222533086412247 0
@@ -2016,8 +2024,8 @@
 82C:\Users\USER\Documents\New folder\E-commerce\node_modules\supports-color\index.js133222535218729726 0
 133C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\parcel_sourcemap_wasm.js133222535275591841 0
 86C:\Users\USER\Documents\New folder\E-commerce\node_modules\@swc\helpers\scripts\gen.sh133222535322765601 0
-105C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\resolver\symlinked\_\node_modules133222533072858529 1
 106C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\resolver\invalid_main\package.json133222533079141714 0
+105C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\resolver\symlinked\_\node_modules133222533072858529 1
 94C:\Users\USER\Documents\New folder\E-commerce\node_modules\caniuse-lite\data\regions\alt-ww.js133222535266246847 0
 81C:\Users\USER\Documents\New folder\E-commerce\node_modules\supports-color\license133222535215697846 0
 75C:\Users\USER\Documents\New folder\E-commerce\node_modules\stable\README.md133222535218669890 0
@@ -2189,10 +2197,6 @@
 100C:\Users\USER\Documents\New folder\E-commerce\node_modules\@swc\helpers\src\_to_consumable_array.mjs133222535341016767 0
 108C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\resolver\other_path\lib\other-lib.js133222533077316606 0
 114C:\Users\USER\Documents\New folder\E-commerce\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts.map133222535249706841 0
-70C:\Users\USER\Documents\New folder\E-commerce\node_modules\.bin\cssesc133222533090920184 0
-86C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\logger\package.json133222535346611817 0
-85C:\Users\USER\Documents\New folder\E-commerce\node_modules\lmdb\util\RangeIterable.js133222535338473571 0
-115C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\resolver\nested_symlinks\mylib\package.json133222533079690244 0
 101C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\resolver\multirepo\lerna.json133222533078692906 0
 83C:\Users\USER\Documents\New folder\E-commerce\node_modules\buffer-from\package.json133222535218649947 0
 76C:\Users\USER\Documents\New folder\E-commerce\node_modules\htmlnano\index.js133222535257659830 0
@@ -2209,6 +2213,7 @@
 103C:\Users\USER\Documents\New folder\E-commerce\node_modules\css-select\lib\pseudo-selectors\filters.d.ts133222535275182932 0
 122C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\resolver\multirepo\packages\package-a\package.json133222533079381065 0
 112C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\resolver\malformed_package_json\index.js133222533075571265 0
+116C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\resolver\malformed_package_json\package.json133222533079171632 0
 108C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\resolver\incorrect_main\package.json133222533079121756 0
 114C:\Users\USER\Documents\New folder\E-commerce\node_modules\@swc\helpers\src\_class_check_private_static_access.mjs133222535331651831 0
 100C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\resolver\false_main\index.js133222533075331920 0
@@ -2249,6 +2254,7 @@
 87C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\node_path\x\ccc133222533074713565 1
 96C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\node_path\x\aaa\index.js133222533074593884 0
 91C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\module_dir\xmodules133222533074184962 1
+72C:\Users\USER\Documents\New folder\E-commerce\dist\index.e45c7933.js.map133222549168073150 0
 91C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\module_dir\ymodules133222533074374486 1
 95C:\Users\USER\Documents\New folder\E-commerce\node_modules\resolve\test\module_dir\zmodules\bbb133222533078842514 1
 79C:\Users\USER\Documents\New folder\E-commerce\node_modules\is-json\package.json133222535216046927 0
@@ -2636,8 +2642,8 @@
 85C:\Users\USER\Documents\New folder\E-commerce\node_modules\nth-check\lib\index.js.map133222535256203719 0
 75C:\Users\USER\Documents\New folder\E-commerce\node_modules\globals\index.js133222535217552881 0
 75C:\Users\USER\Documents\New folder\E-commerce\node_modules\json5\LICENSE.md133222535248180920 0
-81C:\Users\USER\Documents\New folder\E-commerce\node_modules\nth-check\lib\parse.js133222535233161131 0
 91C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\utils\src\getExisting.js133222535369367480 0
+81C:\Users\USER\Documents\New folder\E-commerce\node_modules\nth-check\lib\parse.js133222535233161131 0
 87C:\Users\USER\Documents\New folder\E-commerce\node_modules\nth-check\lib\esm\compile.js133222535219398049 0
 87C:\Users\USER\Documents\New folder\E-commerce\node_modules\nth-check\lib\esm\index.d.ts133222535266276763 0
 88C:\Users\USER\Documents\New folder\E-commerce\node_modules\msgpackr-extract\node_modules133222537870575614 1
@@ -2685,6 +2691,7 @@
 86C:\Users\USER\Documents\New folder\E-commerce\node_modules\node-addon-api\node_api.gyp133222535216804893 0
 94C:\Users\USER\Documents\New folder\E-commerce\node_modules\node-addon-api\package-support.json133222535256652531 0
 95C:\Users\USER\Documents\New folder\E-commerce\node_modules\node-addon-api\tools\clang-format.js133222535248629720 0
+68C:\Users\USER\Documents\New folder\E-commerce\dist\Hero.2f47e5a1.jpg133222549165529953 0
 93C:\Users\USER\Documents\New folder\E-commerce\node_modules\node-addon-api\tools\conversion.js133222535250355108 0
 78C:\Users\USER\Documents\New folder\E-commerce\node_modules\htmlnano\index.d.ts133222535318187855 0
 89C:\Users\USER\Documents\New folder\E-commerce\node_modules\node-addon-api\tools\README.md133222535265070000 0
@@ -2990,7 +2997,7 @@
 95C:\Users\USER\Documents\New folder\E-commerce\node_modules\lightningcss\node\composeVisitors.js133222535257919136 0
 89C:\Users\USER\Documents\New folder\E-commerce\node_modules\@swc\helpers\src\_defaults.mjs133222535336568662 0
 90C:\Users\USER\Documents\New folder\E-commerce\node_modules\lightningcss\node\index.js.flow133222535250454839 0
-61C:\Users\USER\Documents\New folder\E-commerce\dist\index.html133222547832636818 0
+61C:\Users\USER\Documents\New folder\E-commerce\dist\index.html133222558603041396 0
 103C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\utils\src\replaceBundleReferences.js133222535706858045 0
 86C:\Users\USER\Documents\New folder\E-commerce\node_modules\lightningcss\node\index.mjs133222535264970263 0
 111C:\Users\USER\Documents\New folder\E-commerce\node_modules\caniuse-lite\data\features\css-print-color-adjust.js133222535342243475 0
@@ -3178,6 +3185,7 @@
 83C:\Users\USER\Documents\New folder\E-commerce\node_modules\fast-glob\out\index.d.ts133222533074304645 0
 130C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\source.js133222535320242355 0
 81C:\Users\USER\Documents\New folder\E-commerce\node_modules\fast-glob\out\index.js133222533068659759 0
+69C:\Users\USER\Documents\New folder\E-commerce\dist\index.dcbb90d8.css133222549167913571 0
 91C:\Users\USER\Documents\New folder\E-commerce\node_modules\fast-glob\out\utils\pattern.d.ts133222533074833228 0
 101C:\Users\USER\Documents\New folder\E-commerce\node_modules\@swc\helpers\src\_class_name_tdz_error.mjs133222535333606598 0
 98C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\reporter-cli\src\CLIReporter.js133222535350152341 0
@@ -3189,6 +3197,7 @@
 97C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\packager-js\src\dev-prelude.js133222535325797485 0
 90C:\Users\USER\Documents\New folder\E-commerce\node_modules\fast-glob\out\utils\stream.d.ts133222533075441619 0
 91C:\Users\USER\Documents\New folder\E-commerce\node_modules\css-what\lib\commonjs\types.d.ts133222535270156387 0
+87C:\Users\USER\Documents\New folder\E-commerce\node_modules\fast-glob\out\types\index.js133222533069008826 0
 91C:\Users\USER\Documents\New folder\E-commerce\node_modules\fast-glob\out\readers\async.d.ts133222533073247474 0
 89C:\Users\USER\Documents\New folder\E-commerce\node_modules\fast-glob\out\readers\async.js133222533062735605 0
 92C:\Users\USER\Documents\New folder\E-commerce\node_modules\fast-glob\out\readers\reader.d.ts133222533075132492 0
@@ -3310,7 +3319,7 @@
 84C:\Users\USER\Documents\New folder\E-commerce\node_modules\dotenv-expand\lib\main.js133222535229909816 0
 96C:\Users\USER\Documents\New folder\E-commerce\node_modules\caniuse-lite\data\features\svg-img.js133222535368679320 0
 69C:\Users\USER\Documents\New folder\E-commerce\node_modules\dotenv\lib133222535235375195 1
-61C:\Users\USER\Documents\New folder\E-commerce\dist\output.css133222547834013098 0
+61C:\Users\USER\Documents\New folder\E-commerce\dist\output.css133222554871581263 0
 78C:\Users\USER\Documents\New folder\E-commerce\node_modules\dotenv\package.json133222535215937223 0
 84C:\Users\USER\Documents\New folder\E-commerce\node_modules\dotenv\lib\cli-options.js133222535230627890 0
 88C:\Users\USER\Documents\New folder\E-commerce\node_modules\@nodelib\fs.walk\package.json133222533068689677 0
@@ -3452,8 +3461,8 @@
 72C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\graph133222535287589744 1
 81C:\Users\USER\Documents\New folder\E-commerce\node_modules\detective\package.json133222533073287402 0
 73C:\Users\USER\Documents\New folder\E-commerce\node_modules\detective\test133222533073237501 1
-81C:\Users\USER\Documents\New folder\E-commerce\node_modules\detective\test\both.js133222533058596679 0
 94C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\utils\src\getModuleParts.js133222535369447270 0
+81C:\Users\USER\Documents\New folder\E-commerce\node_modules\detective\test\both.js133222533058596679 0
 90C:\Users\USER\Documents\New folder\E-commerce\node_modules\caniuse-lite\data\regions\BA.js133222535293134910 0
 84C:\Users\USER\Documents\New folder\E-commerce\node_modules\detective\test\chained.js133222533061748254 0
 107C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\package-manager\test\fixtures\packages\a133222535359188139 1
@@ -3631,6 +3640,7 @@
 93C:\Users\USER\Documents\New folder\E-commerce\node_modules\css-tree\lib\syntax\scope\index.js133222535311186588 0
 87C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\workers\lib\Trace.js133222535294979952 0
 96C:\Users\USER\Documents\New folder\E-commerce\node_modules\css-tree\lib\syntax\scope\selector.js133222535332998220 0
+64C:\Users\USER\Documents\New folder\E-commerce\dist\assets\bg.jpg133222553882959205 0
 92C:\Users\USER\Documents\New folder\E-commerce\node_modules\css-tree\lib\syntax\pseudo\common133222535333945682 1
 105C:\Users\USER\Documents\New folder\E-commerce\node_modules\caniuse-lite\data\features\array-find-index.js133222535275382395 0
 92C:\Users\USER\Documents\New folder\E-commerce\node_modules\css-tree\lib\syntax\pseudo\dir.js133222535286522599 0
@@ -3642,6 +3652,7 @@
 94C:\Users\USER\Documents\New folder\E-commerce\node_modules\css-tree\lib\syntax\pseudo\index.js133222535311096826 0
 96C:\Users\USER\Documents\New folder\E-commerce\node_modules\css-tree\lib\syntax\pseudo\matches.js133222535317778953 0
 90C:\Users\USER\Documents\New folder\E-commerce\node_modules\caniuse-lite\data\regions\SD.js133222535366674691 0
+76C:\Users\USER\Documents\New folder\E-commerce\dist\Hero.a4684688.jpg.10420.g133222555502097519 0
 98C:\Users\USER\Documents\New folder\E-commerce\node_modules\css-tree\lib\syntax\pseudo\nth-child.js133222535321449123 0
 108C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\package-manager\src\NodePackageManager.js133222535358130962 0
 103C:\Users\USER\Documents\New folder\E-commerce\node_modules\css-tree\lib\syntax\pseudo\nth-last-child.js133222535321828122 0
@@ -4468,6 +4479,7 @@
 106C:\Users\USER\Documents\New folder\E-commerce\node_modules\@swc\helpers\src\_class_private_method_init.mjs133222535335421738 0
 105C:\Users\USER\Documents\New folder\E-commerce\node_modules\@swc\helpers\src\_class_private_method_set.mjs133222535335461631 0
 116C:\Users\USER\Documents\New folder\E-commerce\node_modules\@swc\helpers\src\_class_static_private_field_spec_set.mjs133222535335611224 0
+73C:\Users\USER\Documents\New folder\E-commerce\dist\index.dcbb90d8.css.map133222549168083128 0
 109C:\Users\USER\Documents\New folder\E-commerce\node_modules\@swc\helpers\src\_define_enumerable_properties.mjs133222535336668400 0
 88C:\Users\USER\Documents\New folder\E-commerce\node_modules\@swc\helpers\src\_extends.mjs133222535337047385 0
 97C:\Users\USER\Documents\New folder\E-commerce\node_modules\@swc\helpers\src\_get_prototype_of.mjs133222535337087294 0
@@ -4732,7 +4744,7 @@
 73C:\Users\USER\Documents\New folder\E-commerce\node_modules\@lezer\lr\dist133222535271941604 1
 96C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\core\lib\public\Dependency.js133222535366215902 0
 94C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\transformer-babel\README.md133222535320342096 0
-68C:\Users\USER\Documents\New folder\E-commerce\dist\index.816e7b21.js133222547832656724 0
+68C:\Users\USER\Documents\New folder\E-commerce\dist\index.816e7b21.js133222555501808291 0
 98C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\transformer-babel\src\babel7.js133222535307296994 0
 107C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\transformer-babel\src\babelErrorUtils.js133222535308972514 0
 108C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\transformer-babel\src\BabelTransformer.js133222535311086854 0
@@ -5249,7 +5261,6 @@
 96C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\cache\lib\IDBCache.browser.js133222535261599287 0
 85C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\cache\lib\index.js133222535267284065 0
 89C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\cache\lib\LMDBCache.js133222535270684981 0
-87C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\cache\lib\types.d.ts133222535275452211 0
 106C:\Users\USER\Documents\New folder\E-commerce\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.umd.js133222535217652620 0
 85C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\cache\lib\types.js133222535272779368 0
 86C:\Users\USER\Documents\New folder\E-commerce\node_modules\@parcel\bundler-default\src133222535335611224 1
@@ -5439,9 +5450,17 @@
 70C:\Users\USER\Documents\New folder\E-commerce\node_modules\.bin\terser133222537870755123 0
 74C:\Users\USER\Documents\New folder\E-commerce\node_modules\.bin\terser.cmd133222537870755123 0
 74C:\Users\USER\Documents\New folder\E-commerce\node_modules\.bin\terser.ps1133222537870755123 0
-73C:\Users\USER\Documents\New folder\E-commerce\dist\E-commerce.59712999.js133222547832736511 0
-68C:\Users\USER\Documents\New folder\E-commerce\dist\Hero.a4684688.jpg133222547832876144 0
-72C:\Users\USER\Documents\New folder\E-commerce\dist\index.816e7b21.js.map133222547832756461 0
+57C:\Users\USER\Documents\New folder\E-commerce\dist\assets133222554301222305 1
+66C:\Users\USER\Documents\New folder\E-commerce\dist\bg.577eee2d.jpg133222554462124840 0
+73C:\Users\USER\Documents\New folder\E-commerce\dist\E-commerce.59712999.js133222555501808291 0
+68C:\Users\USER\Documents\New folder\E-commerce\dist\Hero.a4684688.jpg133222555109048481 0
+75C:\Users\USER\Documents\New folder\E-commerce\dist\Hero.a4684688.jpg.6812.l133222554924308076 0
+69C:\Users\USER\Documents\New folder\E-commerce\dist\index.2ac97aa4.css133222556415255772 0
+73C:\Users\USER\Documents\New folder\E-commerce\dist\index.2ac97aa4.css.map133222556415475177 0
+81C:\Users\USER\Documents\New folder\E-commerce\dist\index.4110e2cc.css.map.10420.l133222555502097519 0
+75C:\Users\USER\Documents\New folder\E-commerce\dist\index.816e7b21.js.6812.n133222554924328004 0
+72C:\Users\USER\Documents\New folder\E-commerce\dist\index.816e7b21.js.map133222555501997787 0
 80C:\Users\USER\Documents\New folder\E-commerce\dist\index.816e7b21.js.map.8668.1a133222544637730775 0
+68C:\Users\USER\Documents\New folder\E-commerce\dist\index.e45c7933.js133222549167913571 0
 69C:\Users\USER\Documents\New folder\E-commerce\dist\index.f737b857.css133222540727944418 0
 73C:\Users\USER\Documents\New folder\E-commerce\dist\index.f737b857.css.map133222540728084057 0
